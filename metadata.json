@@ -1,0 +1,5 @@
+{
+  "name": "STEM Pulse",
+  "description": "A real-time STEM news aggregator powered by Google Gemini and Google Search Grounding. Stay updated with the latest breakthroughs in Mathematics, Science, and Technology.",
+  "requestFramePermissions": []
+}
